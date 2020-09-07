@@ -1,0 +1,29 @@
+{
+    "values":
+    [
+    "#minecraft:slabs",
+    "#minecraft:beds",
+    "#minecraft:stairs",
+    "#minecraft:flower_pots",
+    "minecraft:enchanting_table",
+    "minecraft:lily_pad",
+    "minecraft:brewing_stand",
+    "minecraft:campfire",
+    "minecraft:honey_block",
+    "minecraft:stonecutter",
+    "minecraft:grindstone",
+    "minecraft:conduit",
+    "minecraft:soul_sand",
+    "minecraft:chest",
+    "minecraft:trapped_chest",
+    "minecraft:ender_chest",
+    "minecraft:daylight_detector",
+    "minecraft:farmland",
+    "minecraft:grass_path",
+    "minecraft:turtle_egg",
+    "minecraft:player_head",
+    "minecraft:zombie_head",
+    "minecraft:creeper_head",
+    "minecraft:dragon_head"
+    ]
+}

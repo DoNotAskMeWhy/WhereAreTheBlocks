@@ -1,0 +1,11 @@
+{
+    "condition": "minecraft:location_check",
+    "offsetY": -1,
+    "predicate": 
+    {
+        "block": 
+        {
+            "tag": "donot1:important_blocks"
+        }
+    }
+}

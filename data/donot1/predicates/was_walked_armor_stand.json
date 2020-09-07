@@ -1,0 +1,10 @@
+{
+    "condition": "minecraft:location_check",
+    "predicate": 
+    {
+        "block": 
+        {
+            "tag": "donot1:important_blocks"
+        }
+    }
+}
